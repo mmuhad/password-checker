@@ -13,10 +13,7 @@ a simple python script that rates how strong a password is, from "very weak" to 
 1. make sure Python 3 is installed.
 2. download `pwd_checker.py`.
 3. run it in your terminal:
-
-   pwd_checker.py
-
-4. yype a password when asked and see its rating.
+4. type a password when asked and see its rating.
 
 ## what I learned
 - using `input()` and functions in Python
